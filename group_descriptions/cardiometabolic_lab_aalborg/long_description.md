@@ -8,28 +8,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Do not edit)
 <br />
-<br />
 
 [//]: # (Do not edit) 
 ## Technical platform
 
 [//]: # (Write name of apparatus after ###.)
 [//]: # (Write location of image after "img scr=". Do not edit align or width.)  
-### Flow Cytometry <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" /> 
+### Flow Cytometry <img src="https://dummyimage.com/360x420/000/aaa" align="right" width="120" /> 
 
 [//]: # (Write description of method below this) 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. 
 
-[//]: # (Single line break between apparatuses)
-<br />
 
 [//]: # (Another example)
-### ELISA <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" />
+### ELISA ![Example image](https:/dummyimage.com/360x420/000/aaa)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. Aenean scelerisque consectetur nulla. Fusce facilisis accumsan sem, vel aliquam eros tincidunt nec.
 
 
 [//]: # (Do not edit) 
-<br />
 <br />
 
 [//]: # (Do not edit) 
@@ -37,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Write person name after ###.)
 [//]: # (Write location of image after "img scr=". Do not edit align or width.)  
-### Aase Handberg <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" />
+### Aase Handberg <img src="https://dummyimage.com/360x420/000/aaa" align="right" width="120" />
 
 [//]: # (Write title of person after ####) 
 #### Professor
@@ -45,8 +42,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 [//]: # (Write description of person below this) 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan.ante mi, vitae eleifend massa posuere sed. Nullam ornare ex vel viverra interdum.
 
-[//]: # (Do not edit) 
-<br />
 
 [//]: # (Another example) 
 ### Anders Askeland <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" />
@@ -55,7 +50,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 
 [//]: # (Do not edit)
-<br />
 <br />
 
 [//]: # (Write article name within [] and link within \(\)) 
