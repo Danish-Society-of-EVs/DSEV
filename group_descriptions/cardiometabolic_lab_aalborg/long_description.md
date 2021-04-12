@@ -20,6 +20,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 [//]: # (Write description of method below this) 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. 
 
+[//]: # (Single line break between apparatuses)
+<br />
+
+[//]: # (Another example)
+### ELISA <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" />
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. Aenean scelerisque consectetur nulla. Fusce facilisis accumsan sem, vel aliquam eros tincidunt nec.
+
+
 [//]: # (Do not edit) 
 <br />
 <br />
@@ -40,13 +48,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 [//]: # (Do not edit) 
 <br />
 
-[//]: # (See above how to edit) 
+[//]: # (Another example) 
 ### Anders Askeland <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" />
 #### PhD fellow
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan.
 
-[//]: # (Write article name within [] and link within ()) 
-[//]: # (Use APA reference style.) 
+[//]: # (Write article name within [] and link within \(\)) 
+
+[//]: # (Use APA reference style.)
 ## Publications
 [Article name](https://www.example.com)
 
