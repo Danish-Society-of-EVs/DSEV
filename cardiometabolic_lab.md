@@ -1,5 +1,5 @@
 [//]: # (Write a title after #)
-# Cardiometabolic laboratory
+# Cardiometabolic laboratory - Aalborg
 
 [//]: # (Write a short description below this)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. Aenean scelerisque consectetur nulla. Fusce facilisis accumsan sem, vel aliquam eros tincidunt nec.
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 [//]: # (Written example) 
 [Askeland A, Borup A, Østergaard O, Olsen JV, Lund SM, Christiansen G, Kristensen SR, Heegaard NHH, Pedersen S. Mass-Spectrometry Based Proteome Comparison of Extracellular Vesicle Isolation Methods: Comparison of ME-kit, Size-Exclusion Chromatography, and High-Speed Centrifugation. Biomedicines. 2020; 8(8):246. https://doi.org/10.3390/biomedicines8080246](https://www.mdpi.com/2227-9059/8/8/246)
 
-## Contact
+## About us
 * Location: Aalborg University Hospital, Denmark
 * Email: email@example.com
 * Phone: 00 00 00 00
