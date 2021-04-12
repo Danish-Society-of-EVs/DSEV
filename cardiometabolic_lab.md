@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Write article name within [] and link within \(\)) 
 [//]: # (Use APA reference style.)
-## Publications
+## Select publications
 [Article name](https://www.example.com)
 
 [//]: # (Written example) 
