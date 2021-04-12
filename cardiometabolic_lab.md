@@ -61,3 +61,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 [//]: # (Written example) 
 [Askeland A, Borup A, Østergaard O, Olsen JV, Lund SM, Christiansen G, Kristensen SR, Heegaard NHH, Pedersen S. Mass-Spectrometry Based Proteome Comparison of Extracellular Vesicle Isolation Methods: Comparison of ME-kit, Size-Exclusion Chromatography, and High-Speed Centrifugation. Biomedicines. 2020; 8(8):246. https://doi.org/10.3390/biomedicines8080246](https://www.mdpi.com/2227-9059/8/8/246)
 
+## Contact
+* Location: Aalborg University Hospital, Denmark
+* Email: email@example.com
+* Phone: 00 00 00 00
+* Webpage: [Cardiometabolic lab Aalborg](www.example.com)
