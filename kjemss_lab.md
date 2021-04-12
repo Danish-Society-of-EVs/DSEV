@@ -105,4 +105,4 @@ Webpage: <https://www.linkedin.com/in/morten-ven%C3%B8/>
 [//]: # (How to edit: Write appropriate info after the "*".) 
 ## About
 * Location: Aarhus
-* Webpage: [Kjems's griyo](https://inano.au.dk/about/research-groups/nanomedicine-joergen-kjems-group/)
+* Webpage: [Kjems's group](https://inano.au.dk/about/research-groups/nanomedicine-joergen-kjems-group/)
