@@ -1,4 +1,4 @@
-[//]: Write a title after "#"
+[//]: # Write a title after "#"
 # Cardiometabolic laboratory - Aalborg University Hospital
 
 [//]: Write a short description below this
