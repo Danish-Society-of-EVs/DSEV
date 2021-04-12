@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 
 [//]: # (Another example) 
-### Anders Askeland <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" />
+### Anders Askeland <img src="https://dummyimage.com/360x420/000/aaa" align="right" width="120" />
 #### PhD fellow
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan.
 
