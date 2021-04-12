@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Apparatus name)
 [//]: # (How to edit: Write name of apparatus after "###" and edit image by altering the path after "img scr=". Do not edit align or height.)
-### Flow Cytometry <img src="graphics/flow_cytometer.png" align="right" height="150"/>
+### Flow Cytometry <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/flow_cytometer.png" align="right" height="150"/>
 
 [//]: # (Apparatus description)
 [//]: # (How to edit: Write description of method below this) 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Person name)
 [//]: # (How to edit: Write person name after "###". Write location of image after "img scr=". Do not edit align, height or width.)
-### Aase Handberg <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+### Aase Handberg <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 
 [//]: # (Person title)
 [//]: # (How to edit: Write title of person after "####".) 
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 
 [//]: # (Another example) 
-### Anders Askeland <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+### Anders Askeland <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### PhD fellow
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan.
 
