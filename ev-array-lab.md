@@ -105,4 +105,4 @@ Email: <rikke.baek@rn.dk>
 [//]: # (How to edit: Write appropriate info after the "*".) 
 ## About
 * Location: Department of Clinical Immunology, Aalborg University Hospital, Urbansgade 32-36, DK-9000 Aalborg
-* Webpage: [EVarray](www.EVArray.dk) and [EVSearch](www.EVsearch.dk)
+* Webpage: [EVarray](http://www.EVArray.dk) and [EVSearch](http://www.EVsearch.dk)
