@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Do not edit)
 <br />
-
+---
 [//]: # (Do not edit) 
 ## Technical platform
 
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 [//]: # (Write description of method below this) 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. 
 
----
+
 
 
 [//]: # (Another example)
@@ -53,6 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Do not edit)
 <br />
+---
 
 [//]: # (Write article name within [] and link within \(\)) 
 [//]: # (Use APA reference style.)
@@ -61,6 +62,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Written example) 
 [Askeland A, Borup A, Østergaard O, Olsen JV, Lund SM, Christiansen G, Kristensen SR, Heegaard NHH, Pedersen S. Mass-Spectrometry Based Proteome Comparison of Extracellular Vesicle Isolation Methods: Comparison of ME-kit, Size-Exclusion Chromatography, and High-Speed Centrifugation. Biomedicines. 2020; 8(8):246. https://doi.org/10.3390/biomedicines8080246](https://www.mdpi.com/2227-9059/8/8/246)
+
+[//]: # (Do not edit)
+<br />
+---
 
 ## About us
 * Location: Aalborg University Hospital, Denmark
