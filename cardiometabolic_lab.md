@@ -8,8 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Do not edit)
 <br />
----
-[//]: # (Do not edit) 
+
+[//]: test 
 ## Technical platform
 
 [//]: # (Write name of apparatus after ###.)
