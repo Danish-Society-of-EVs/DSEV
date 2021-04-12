@@ -14,7 +14,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Write name of apparatus after ###.)
 [//]: # (Write location of image after "img scr=". Do not edit align or width.)  
-### Flow Cytometry <img src="https://dummyimage.com/360x420/000/aaa" align="right" width="120" /> 
+### Flow Cytometry <a href="http://www.google.com" target="_blank">
+  <img width="220" height="250" border="0" align="center"  <img src="https://dummyimage.com/360x420/000/aaa" align="right" width="120" />
+</a> 
 
 [//]: # (Write description of method below this) 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. 
