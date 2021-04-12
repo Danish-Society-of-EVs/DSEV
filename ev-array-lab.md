@@ -28,9 +28,13 @@ The people involved in EV research consists of Malene M Jørgensen (senior scien
 * Microarray printer sciFLEXARRAY S12
 * Microarray scanners sciREADER FL2 and Innoscan 720AL
 
+<br /> 
+
 ### EV purification setup <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
 * Ultracentrifuge
 * SEC
+
+<br /> 
 
 ### Cell culturing facilities <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
 * Flow cytometry (FacsCanto),
@@ -38,10 +42,14 @@ The people involved in EV research consists of Malene M Jørgensen (senior scien
 * EliSPOT
 * Microscopy 
 
+<br /> 
+
 ### Protein chemistry lab <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
 * SDS-PAGE 
 * Western blot
 * HPLC
+
+<br /> 
 
 [//]: # (Layout - Linebreak \(Do not remove\)) 
 <br />
@@ -65,6 +73,7 @@ The people involved in EV research consists of Malene M Jørgensen (senior scien
 Email: <maljoe@rn.dk>
 
 <br />
+
 [//]: # (Another example) 
 ### Rikke Bæk <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### Research Engineer
