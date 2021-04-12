@@ -13,7 +13,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 ### Aase Handberg <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" />
 #### Professor
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan.ante mi, vitae eleifend massa posuere sed. Nullam ornare ex vel viverra interdum.
-/n/n
+<br />
+<br />
+<br />
 
 ### Anders Askeland <img src="https://dummyimage.com/360x420/fff/aaa" align="right" width="120" />
 #### PhD fellow
