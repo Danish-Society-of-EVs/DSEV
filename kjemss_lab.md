@@ -17,7 +17,7 @@ The Kjems`s lab is located at the Interdisciplinary Nanoscience Center (INANO) a
 
 [//]: # (Apparatus name)
 [//]: # (How to edit: Write name of apparatus after "###" and edit image by altering the path after "img scr=". Do not edit align or height.)
-### EV Characterization <img src="https://fakeimg.pl/120x150/ align="right" height="150"/>
+### EV Characterization <img src="https://fakeimg.pl/120x150/" align="right" height="150"/>
 
 [//]: # (Apparatus description)
 [//]: # (How to edit: Write description of method below this) 
