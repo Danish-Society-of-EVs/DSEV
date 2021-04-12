@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 [//]: # (Apparatus name)
 [//]: # (How to edit: Write name of apparatus after "###" and edit image by altering the path after "img scr=". Do not edit align or height.)
-### Flow Cytometry <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/flow_cytometer.png" align="right" height="150"/>
+### Flow Cytometry ![Flow cytometer](https://github.com/AndersAskeland/DSEV/blob/main/graphics/flow_cytometer.png#right)
 
 [//]: # (Apparatus description)
 [//]: # (How to edit: Write description of method below this) 
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 
 [//]: # (Another example)
-### ELISA <img src="graphics/placeholder.png" align="right" height="150"/>
+### ELISA | ![Flow cytometer](https://github.com/AndersAskeland/DSEV/blob/main/graphics/flow_cytometer.png)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. Aenean scelerisque consectetur nulla. Fusce facilisis accumsan sem, vel aliquam eros tincidunt nec.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. 
 
 [//]: # (Layout - Linebreak \(Do not remove\)) 
