@@ -51,22 +51,26 @@ We have a range platforms for EV of characterization including Dynamic light sca
 [//]: # (Person description)
 [//]: # (How to edit: Write description of person below this) 
 Email: <jk@mbg.au.dk>
+
 Webpage: <https://inano.au.dk/about/research-groups/nanomedicine-joergen-kjems-group/>
 
 
 ### Yan Yan <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### Postdoc
 Email: <yanyan@inano.au.dk>
+
 Webpage: <https://www.linkedin.com/in/yan-yan-1b3b85142/> & <https://pure.au.dk/portal/en/persons/yan-yan(b9db242b-cc45-465c-a2fd-9dee4338232b).html>
 
 ### Ping Song <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### Postdoc
 Email: <psong@inano.au.dk>
+
 Webpage: <https://pure.au.dk/portal/en/persons/ping-song(7562012b-6598-4dfe-8196-6619609b818b)/publications.html>
 
 ### Morten T. Venø <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### CEO of omiics
 Email: <morten.veno@omiics.com>
+
 Webpage: <https://www.linkedin.com/in/morten-ven%C3%B8/>
 
 
@@ -101,4 +105,4 @@ Webpage: <https://www.linkedin.com/in/morten-ven%C3%B8/>
 [//]: # (How to edit: Write appropriate info after the "*".) 
 ## About
 * Location: Aarhus
-* Webpage: [EVarray]([www.EVArray.dk](https://inano.au.dk/about/research-groups/nanomedicine-joergen-kjems-group/))
+* Webpage: [Kjems's griyo](https://inano.au.dk/about/research-groups/nanomedicine-joergen-kjems-group/)
