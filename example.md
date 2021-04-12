@@ -1,6 +1,6 @@
 [//]: # (Title/laboratory name)
 [//]: # (How to edit: Write your title after "#")
-# Write laboratory name here
+# Write laboratory name here and city (Example: EV array lab - Aalborg)
 
 [//]: # (Laboratory text)
 [//]: # (How to edit: Write a short description below this)
