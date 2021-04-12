@@ -22,7 +22,7 @@ Extra cellular vesicles (EVs) are released in the blood by a wide array of cell 
 
 [//]: # (Apparatus name)
 [//]: # (How to edit: Write name of apparatus after "###" and edit image by altering the path after "img scr=". Do not edit align or height.)
-### No info <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
+### No info <img src="graphics/placeholder.png" align="right" height="150"/>
 
 [//]: # (Apparatus description)
 [//]: # (How to edit: Write description of method below this) 
@@ -41,7 +41,7 @@ No info
 
 [//]: # (Person name)
 [//]: # (How to edit: Write person name after "###". Write location of image after "img scr=". Do not edit align, height or width.)
-###  Kim Ryun Drasbek <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+###  Kim Ryun Drasbek <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 
 [//]: # (Person title)
 [//]: # (How to edit: Write title of person after "####".) 

@@ -21,8 +21,7 @@ The people involved in EV research consists of Malene M Jørgensen (senior scien
 
 [//]: # (Apparatus name)
 [//]: # (How to edit: Write name of apparatus after "###" and edit image by altering the path after "img scr=". Do not edit align or height.)
-### EV Array platform <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
-
+### EV Array platform <img src="graphics/placeholder.png" align="right" height="150"/>
 [//]: # (Apparatus description)
 [//]: # (How to edit: Write description of method below this) 
 * Microarray printer sciFLEXARRAY S12
@@ -30,13 +29,13 @@ The people involved in EV research consists of Malene M Jørgensen (senior scien
 
 <br /> 
 
-### EV purification setup <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
+### EV purification setup <img src="graphics/placeholder.png" align="right" height="150"/>>
 * Ultracentrifuge
 * SEC
 
 <br /> 
 
-### Cell culturing facilities <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
+### Cell culturing facilities <img src="graphics/placeholder.png" align="right" height="150"/>
 * Flow cytometry (FacsCanto),
 * xCELLIgence (real time cell analysis)
 * EliSPOT
@@ -44,7 +43,7 @@ The people involved in EV research consists of Malene M Jørgensen (senior scien
 
 <br /> 
 
-### Protein chemistry lab <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
+### Protein chemistry lab <img src="graphics/placeholder.png" align="right" height="150"/>
 * SDS-PAGE 
 * Western blot
 * HPLC
@@ -62,7 +61,7 @@ The people involved in EV research consists of Malene M Jørgensen (senior scien
 
 [//]: # (Person name)
 [//]: # (How to edit: Write person name after "###". Write location of image after "img scr=". Do not edit align, height or width.)
-### Malene Møller Jørgensen <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+### Malene Møller Jørgensen <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 
 [//]: # (Person title)
 [//]: # (How to edit: Write title of person after "####".) 
@@ -75,7 +74,7 @@ Email: <maljoe@rn.dk>
 <br />
 
 [//]: # (Another example) 
-### Rikke Bæk <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+### Rikke Bæk <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### Research Engineer
 Email: <rikke.baek@rn.dk>
 

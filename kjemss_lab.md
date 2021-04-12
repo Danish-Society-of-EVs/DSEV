@@ -17,7 +17,7 @@ The Kjems`s lab is located at the Interdisciplinary Nanoscience Center (INANO) a
 
 [//]: # (Apparatus name)
 [//]: # (How to edit: Write name of apparatus after "###" and edit image by altering the path after "img scr=". Do not edit align or height.)
-### EV Characterization <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
+### EV Characterization <img src="graphics/placeholder.png" align="right" height="150"/>
 
 [//]: # (Apparatus description)
 [//]: # (How to edit: Write description of method below this) 
@@ -25,7 +25,7 @@ We have a range platforms for EV of characterization including Dynamic light sca
 
 <br /> 
 
-### EV-omics <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
+### EV-omics <img src="graphics/placeholder.png" align="right" height="150"/>
 * We have rich experience in RNA purification and RNA sequencing library preparation (small RNA seq or long RNA seq) for exosome samples. Relevant equipment include bioanalyzer, pippin prep machine, Illumina and Oxford Nanopore sequencing technologies, and bioinformatic pipelines running in our lab.
 * Omiics, spin out company from Kjems`s lab, developed pipeline for tRNA data analysis (sequencing data).
 * Using DNA and RNA aptamers for pulling down and profling of exsosomes.
@@ -42,7 +42,7 @@ We have a range platforms for EV of characterization including Dynamic light sca
 
 [//]: # (Person name)
 [//]: # (How to edit: Write person name after "###". Write location of image after "img scr=". Do not edit align, height or width.)
-### Jørgen Kjems <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+### Jørgen Kjems <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 
 [//]: # (Person title)
 [//]: # (How to edit: Write title of person after "####".) 
@@ -55,19 +55,19 @@ Email: <jk@mbg.au.dk>
 Webpage: <https://inano.au.dk/about/research-groups/nanomedicine-joergen-kjems-group/>
 
 
-### Yan Yan <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+### Yan Yan <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### Postdoc
 Email: <yanyan@inano.au.dk>
 
 Webpage: <https://www.linkedin.com/in/yan-yan-1b3b85142/> & <https://pure.au.dk/portal/en/persons/yan-yan(b9db242b-cc45-465c-a2fd-9dee4338232b).html>
 
-### Ping Song <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+### Ping Song <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### Postdoc
 Email: <psong@inano.au.dk>
 
 Webpage: <https://pure.au.dk/portal/en/persons/ping-song(7562012b-6598-4dfe-8196-6619609b818b)/publications.html>
 
-### Morten T. Venø <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+### Morten T. Venø <img src="graphics/placeholder_staff.png" align="right" height="150" width="120"/>
 #### CEO of omiics
 Email: <morten.veno@omiics.com>
 
