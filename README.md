@@ -20,21 +20,25 @@ Before you can create a new group, you'll need to contact the DSEV webpage admin
 
 2. Change the file name to "my-lab.md", where "my-lab" is the name of your group/lab.
 3. The file contains is build up in the following manner:
-   * Comments of how to edit the file. These remain invisible when it is the file is rendered on <http://dsev.dk> and can be left in place.
+   * Comments - Several comments states how one should edit the file. Comments remain invisible when it is the file is rendered on <http://dsev.dk> and can be left in place.
         ``` md
         [//]: # (This is a comment)
         ```
-    * Title and subtitles and prefixed by hashes (#). When editing these, do not remove the hashes, as these determine the text size.
+    * Title and subtitles - These are prefixed by hashes (#). When editing these, do not remove the hashes, as these determine the text size.
         ``` md
         # Title
         ## Subtitle
         ### Small subtitle 
         ```
-   * Editable text. Sections you should edit with the group/lab information.
+   * Editable text - Sections you should edit with the group/lab information.
         ``` md
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
         ```
-   * Layout/linebreaks. These are layout specific items. If unsure how they work, leave them be. 
+   * Images - Can be added for technical apparatus or research staff. Images shuld be hosted in the "graphics" folder and refered to using the absolute image address.
+        ``` md
+        <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder_staff.png" align="right" height="150" width="120"/>
+        ```  
+   * Linebreaks - These are layout specific items. If unsure how they work, leave them be. 
         ``` md
         <br />
         ```

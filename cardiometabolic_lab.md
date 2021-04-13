@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. 
 
 
 [//]: # (Another example)
-### ELISA | <img src="https://github.com/AndersAskeland/DSEV/blob/main/graphics/placeholder.png" align="right" height="150"/>
+### ELISA <img src="https://fakeimg.pl/120x150/" align="right" height="150"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. Aenean scelerisque consectetur nulla. Fusce facilisis accumsan sem, vel aliquam eros tincidunt nec.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in augue metus. Integer ex erat, auctor ut arcu sed, ornare sollicitudin turpis. Donec metus orci, venenatis a ultrices sed, convallis non sapien. Aliquam tincidunt maximus justo vel accumsan. Ut vel sodales sapien, non efficitur tortor. 
 
 [//]: # (Layout - Linebreak \(Do not remove\)) 
