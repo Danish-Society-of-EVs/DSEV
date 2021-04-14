@@ -1,6 +1,6 @@
 [//]: # (Title/laboratory name)
 [//]: # (How to edit: Write your title after "#")
-# Kjems's lab - Aarhus
+# Kjem's lab - Aarhus
 
 [//]: # (Laboratory text)
 [//]: # (How to edit: Write a short description below this)
